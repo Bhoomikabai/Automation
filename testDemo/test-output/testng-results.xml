@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-12T10:22:27 IST" name="Default suite" finished-at="2023-01-12T10:22:27 IST" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2023-01-12T10:22:27 IST" name="Default test" finished-at="2023-01-12T10:22:27 IST" duration-ms="54">
+      <class name="testDemo.test.DemoProject">
+        <test-method is-config="true" signature="AccountLogin()[pri:0, instance:testDemo.test.DemoProject@bef2d72]" started-at="2023-01-12T10:22:27 IST" name="AccountLogin" finished-at="2023-01-12T10:22:27 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountLogin -->
+        <test-method is-config="true" signature="Password()[pri:0, instance:testDemo.test.DemoProject@bef2d72]" started-at="2023-01-12T10:22:27 IST" name="Password" finished-at="2023-01-12T10:22:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Password -->
+        <test-method signature="name()[pri:0, instance:testDemo.test.DemoProject@bef2d72]" started-at="2023-01-12T10:22:27 IST" name="name" finished-at="2023-01-12T10:22:27 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+        <test-method is-config="true" signature="Address()[pri:0, instance:testDemo.test.DemoProject@bef2d72]" started-at="2023-01-12T10:22:27 IST" name="Address" finished-at="2023-01-12T10:22:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Address -->
+        <test-method signature="name2()[pri:0, instance:testDemo.test.DemoProject@bef2d72]" started-at="2023-01-12T10:22:27 IST" name="name2" finished-at="2023-01-12T10:22:27 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name2 -->
+        <test-method is-config="true" signature="Password()[pri:0, instance:testDemo.test.DemoProject@bef2d72]" started-at="2023-01-12T10:22:27 IST" name="Password" finished-at="2023-01-12T10:22:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Password -->
+        <test-method is-config="true" signature="Address()[pri:0, instance:testDemo.test.DemoProject@bef2d72]" started-at="2023-01-12T10:22:27 IST" name="Address" finished-at="2023-01-12T10:22:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Address -->
+        <test-method is-config="true" signature="Register()[pri:0, instance:testDemo.test.DemoProject@bef2d72]" started-at="2023-01-12T10:22:27 IST" name="Register" finished-at="2023-01-12T10:22:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method is-config="true" signature="Address1()[pri:0, instance:testDemo.test.DemoProject@bef2d72]" started-at="2023-01-12T10:22:27 IST" name="Address1" finished-at="2023-01-12T10:22:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Address1 -->
+        <test-method is-config="true" signature="email()[pri:0, instance:testDemo.test.DemoProject@bef2d72]" started-at="2023-01-12T10:22:27 IST" name="email" finished-at="2023-01-12T10:22:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- email -->
+      </class> <!-- testDemo.test.DemoProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
