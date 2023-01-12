@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="urn" value="test_user"/>
+  <parameter name="psw" value="qa123"/>
+  <parameter name="url" value="https://www.amazon.in/"/>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="demoTestNG.test.ParametersDemo">
+        <methods>
+          <include name="editProfile"/>
+        </methods>
+      </class> <!-- demoTestNG.test.ParametersDemo -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
